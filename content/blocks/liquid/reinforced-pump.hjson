@@ -1,0 +1,12 @@
+{
+  research: {
+    parent: reinforced-conduit,
+    objectives": [
+      reinforced-conduit,
+      {
+        type: OnSector,
+        preset: intersect
+      }
+    ]
+  }
+}
