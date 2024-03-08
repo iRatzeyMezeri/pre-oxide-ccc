@@ -7,9 +7,9 @@
     beryllium/40,
   ],
   research: {
-    parent: electrolyzer,
+    parent: turbine-condenser,
     objectives": [
-      electrolyzer,
+      turbine-condenser,
       {
         type: OnSector,
         preset: intersect
