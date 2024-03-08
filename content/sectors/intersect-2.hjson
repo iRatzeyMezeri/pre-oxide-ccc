@@ -1,0 +1,13 @@
+{
+  localizedName: alt intersect
+  type: sector
+  difficulty: 6
+  captureWave: 10
+  attackWafterWaves: true
+  planet: erekir
+  sector: 66
+  research: {
+    parent: lake
+    requiresUnlock: false
+  }
+}
