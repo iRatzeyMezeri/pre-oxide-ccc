@@ -1,0 +1,12 @@
+{
+  research: {
+    parent: silicon-arc-furnace,
+    objectives: [
+      silicon-arc-furnace,
+      {
+        type: OnSector,
+        preset: intersect
+      }
+    ]
+  }
+}
