@@ -1,4 +1,5 @@
 {
+  researchCostMultiplier: 0.05
   research: {
     parent: silicon-arc-furnace,
     objectives: [
