@@ -1,0 +1,6 @@
+name: "pre-oxide-ccc"
+displayName: "Pre Oxide CCC (QOL)"
+author: "InxieRatZey"
+description: "makes ccc pre-oxide but nerfs it"
+version: 1
+minGameVersion: 146
