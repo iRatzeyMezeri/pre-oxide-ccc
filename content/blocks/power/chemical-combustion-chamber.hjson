@@ -7,9 +7,9 @@
     beryllium/40,
   ],
   research: {
-    parent: electrolyser,
+    parent: electrolyzer,
     objectives": [
-      electrolyser,
+      electrolyzer,
       {
         type: OnSector,
         preset: intersect
