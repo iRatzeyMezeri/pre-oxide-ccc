@@ -10,6 +10,7 @@
     parent: turbine-condenser,
     objectives": [
       turbine-condenser,
+      reinforced-pump.
       {
         type: OnSector,
         preset: intersect
