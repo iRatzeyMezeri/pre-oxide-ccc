@@ -1,4 +1,5 @@
 {
+  researchCostMultiplier: 0.05
   powerProduction: 8,
   requirements: [
     tungsten/80,
