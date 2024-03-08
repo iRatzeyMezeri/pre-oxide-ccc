@@ -1,0 +1,19 @@
+{
+  "powerProduction": 8,
+  "requirements": [
+    "tungsten/80",
+    "silicon/80",
+    "graphite/60",
+    "beryllium/40",
+  ],
+  "research": {
+    "parent": "electrolyser",
+    "objectives": [
+      "electrolyser",
+      {
+        "type": "OnSector",
+        "preset": "Intersect"
+      }
+    ]
+  }
+}
