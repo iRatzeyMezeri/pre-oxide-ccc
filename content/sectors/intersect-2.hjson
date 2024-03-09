@@ -3,7 +3,7 @@
   type: sector
   difficulty: 6
   captureWave: 9
-  attackWafterWaves: true
+  attackAfterWaves: true
   planet: erekir
   sector: 66
   research: {
