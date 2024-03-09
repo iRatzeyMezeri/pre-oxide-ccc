@@ -1,11 +1,11 @@
 {
-  localizedName: alt intersect
+  localizedName: Intersect 2
   type: sector
   difficulty: 6
   captureWave: 10
   attackWafterWaves: true
   planet: erekir
-  sector: 66
+  sector: 65
   research: {
     parent: lake
     requiresUnlock: false
