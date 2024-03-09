@@ -2,10 +2,10 @@
   localizedName: Intersect 2
   type: sector
   difficulty: 6
-  captureWave: 10
+  captureWave: 9
   attackWafterWaves: true
   planet: erekir
-  sector: 65
+  sector: 66
   research: {
     parent: lake
     requiresUnlock: false
