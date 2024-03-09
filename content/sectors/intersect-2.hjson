@@ -5,7 +5,7 @@
   captureWave: 9
   attackAfterWaves: true
   planet: erekir
-  sector: 65
+  sector: 66
   research: {
     parent: lake
     requiresUnlock: false
